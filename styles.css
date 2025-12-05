@@ -1,6 +1,5 @@
-/* --------------------------------------------------
-   ROOT VARIABLES — CUSTOM THEME COLORS
--------------------------------------------------- */
+ 
+
 :root {
   --brand-green: #d8f1dc;
   --brand-mint: #c8e2e3;
@@ -19,9 +18,7 @@ body {
   padding: 0;
 }
 
-/* --------------------------------------------------
-   ACCESSIBILITY — SKIP LINK
--------------------------------------------------- */
+
 .skip-link {
   position: absolute;
   top: -40px;
@@ -38,9 +35,7 @@ body {
   top: 10px;
 }
 
-/* --------------------------------------------------
-   NAVIGATION
--------------------------------------------------- */
+   
 .navbar {
   background: var(--brand-green) !important;
   padding: 1rem 0;
@@ -75,9 +70,7 @@ body {
   max-height: 380px;
 }
 
-/* --------------------------------------------------
-   ABOUT BOX
--------------------------------------------------- */
+
 .about-box {
   background: #ffffff;
   border-radius: 12px;
@@ -86,9 +79,7 @@ body {
   border-left: 6px solid var(--brand-accent);
 }
 
-/* --------------------------------------------------
-   DOG CARDS
--------------------------------------------------- */
+
 .dog-card {
   border-radius: 12px;
   object-fit: cover;
@@ -107,9 +98,7 @@ body {
   margin-top: 8px;
 }
 
-/* --------------------------------------------------
-   VOLUNTEER FORM
--------------------------------------------------- */
+
 .contact-form {
   background: var(--brand-mint);
   padding: 2rem;
@@ -133,9 +122,7 @@ body {
   box-shadow: none;
 }
 
-/* --------------------------------------------------
-   BUTTONS
--------------------------------------------------- */
+
 .btn-primary {
   background: var(--brand-accent) !important;
   border: none !important;
@@ -148,9 +135,7 @@ body {
   opacity: 0.9;
 }
 
-/* --------------------------------------------------
-   FOOTER
--------------------------------------------------- */
+
 footer {
   background: var(--brand-green);
   padding: 1rem 0;
@@ -159,9 +144,7 @@ footer {
   margin-top: 3rem;
 }
 
-/* --------------------------------------------------
-   RESPONSIVE IMPROVEMENTS
--------------------------------------------------- */
+
 @media (max-width: 768px) {
   .hero-title {
     font-size: 2rem;
