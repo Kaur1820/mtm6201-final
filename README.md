@@ -40,11 +40,11 @@ I added:
 ### **6. Deployment**
 The website is published using **GitHub Pages**, making it accessible at:
 
-`https://your-username.github.io/mtm6201-final`
+`https://kaur1820.github.io/mtm6201-final/
 
 ---
 
-## 🚧 Challenges & How I Overcame Them
+##  Challenges & How I Overcame Them
 
 ### **• Making the layout fully responsive**
 Some sections collapsed incorrectly on tablet sizes.  
@@ -64,7 +64,7 @@ Keyboard navigation and skip links required extra attention.
 
 ---
 
-## 📘 What I Learned
+##  What I Learned
 
 Through this project, I learned:
 
@@ -79,7 +79,7 @@ This project strengthened both my development and design decision-making skills.
 
 ---
 
-## 📚 Assets, Frameworks & Resources Used
+##  Assets, Frameworks & Resources Used
 
 ### **Frameworks & Libraries**
 - Bootstrap 5.3.2  
@@ -97,6 +97,8 @@ This project strengthened both my development and design decision-making skills.
 - Google Fonts – Poppins (free to use)
 
 ---
+figma link 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/FxheivE1DqzpZc7UKgQWjx/Untitled?embed-host=share" allowfullscreen></iframe>
 
 #
 
